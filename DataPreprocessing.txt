@@ -1,0 +1,14 @@
+Data Analysis
+Data Visualization - ggplot
+
+Data Preprocessing
+Handle Missing Values
+NaN - Not a number
+
+Label Encoding
+Categorical - M/F, ger/fr/sp
+
+Train Test Split
+
+Feature Scaling
+Normalisation/Standardisation
